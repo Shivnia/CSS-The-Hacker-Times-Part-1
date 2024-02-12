@@ -2,10 +2,12 @@
 
 body{
     font-family: "Source Sans Pro";
+    background-color: #eee;
 }
 
 h1{
     text-align: center;
+    font-family: "Abril Fatface";
 }
 
 .newspaper-container{
@@ -43,4 +45,29 @@ ul{
     width: 665px;
     text-align: justify;
     
+}
+
+.maurice{
+    color:#dd3232;
+    font-family: "Roboto Slab";
+}
+
+.manip{
+    text-align: justify;
+    width: 700px;
+}
+
+.morea{
+    display: inline-block;
+    width: 330px;
+    text-align: justify;
+}
+
+.morea p{
+    width: 270px;
+    padding-left: 10px;
+}
+
+.articlefont{
+    font-family: "Roboto Slab";
 }
